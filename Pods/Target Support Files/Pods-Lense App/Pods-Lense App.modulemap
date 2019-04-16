@@ -1,0 +1,6 @@
+framework module Pods_Lense_App {
+  umbrella header "Pods-Lense App-umbrella.h"
+
+  export *
+  module * { export * }
+}
